@@ -1,1 +1,1 @@
-console.log("ㅓㅡㅓdgㄹㄴㅁ아ㅇㅁㅈㅇㅁㅈㅁㄴㅓ");
+console.log("테스트");
