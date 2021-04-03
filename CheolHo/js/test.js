@@ -1,1 +1,1 @@
-console.log("ㅓㅡㅓdgㄹㄴㅁ아ㅁㄴㅓ");
+console.log("ㅓㅡㅓdgㄹㄴㅁ아ㅇㅁㅈㅇㅁㅈㅁㄴㅓ");
