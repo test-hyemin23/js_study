@@ -1,1 +1,1 @@
-console.log("테스");
+console.log("ㅇㅁㄴㅇㅁㄴㅇㅁ");
